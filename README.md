@@ -3,7 +3,6 @@
 学生
 
 | | |
-|:---|:---|
 | 在做 | eros — 文档/ AI 对话 |
 | 技术栈 | React · TypeScript · Node · Python · Go · SQLite |
 | 相信 | 学习是实现个人完备 |
