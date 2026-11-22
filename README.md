@@ -1,13 +1,12 @@
 ### 小纱瓜
 
-学生 · 在做一个叫 **eros** 的本地知识工作台
+学生
 
 | | |
 |:---|:---|
-| 在做 | eros — 笔记 / 卡片 / 复习 / AI 对话，数据全在本地 |
+| 在做 | eros — 文档/ AI 对话 |
 | 技术栈 | React · TypeScript · Node · Python · Go · SQLite |
-| 另一件事 | [进化档案馆](https://github.com/ghjdjd/evolution-tracker) — 六个 AI Profile 的协同进化记录 |
-| 相信 | 数据应该属于使用它的人 |
+| 相信 | 学习是实现个人完备 |
 | 位置 | Sichuan, China |
 
 ---
